@@ -8,7 +8,7 @@
   },
   "baseUrl": "http://your.ip.address:port",
   "conversation": {
-    "language": "en-US",
+    "lang": "en-US",
     "audio": {
       "sampleRateOut": 24000,
       "sampleRateIn": 24000
